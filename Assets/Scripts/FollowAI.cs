@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class FollowBotAI : MonoBehaviour {
+public class FollowAI : MonoBehaviour {
 	
 	public Transform Leader;
 	public float AISpeed = 1;
